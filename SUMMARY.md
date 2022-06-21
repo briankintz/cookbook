@@ -34,6 +34,7 @@
 ## Sauces
 
 * [Buffalo Sauce](sauces/buffalo-sauce.md)
+* [Chili Citrus Marinade](sauces/chili-citrus-marinade.md)
 * [Enchilada Sauce](sauces/enchilada-sauce.md)
 * [Ranch Dressing](sauces/ranch-dressing.md)
 * [Teriyaki Sauce](sauces/teriyaki-sauce.md)
