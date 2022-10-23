@@ -36,5 +36,6 @@
 * [Buffalo Sauce](sauces/buffalo-sauce.md)
 * [Chili Citrus Marinade](sauces/chili-citrus-marinade.md)
 * [Enchilada Sauce](sauces/enchilada-sauce.md)
+* [Mango Habanero Hot Sauce](sauces/mango-habanero-hot-sauce.md)
 * [Ranch Dressing](sauces/ranch-dressing.md)
 * [Teriyaki Sauce](sauces/teriyaki-sauce.md)
