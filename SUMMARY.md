@@ -25,6 +25,10 @@
 * [Oven Roasted Mushrooms](sides/oven-roasted-mushrooms.md)
 * [Twice-baked Potatoes](sides/twice-baked-potatoes.md)
 
+## Deserts
+
+* [Chocolate Chip Cookies](deserts/chocolate-chip-cookies.md)
+
 ## Bread
 
 * [Hamburger Buns](bread/hamburger-buns.md)
