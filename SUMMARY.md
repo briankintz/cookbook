@@ -28,6 +28,7 @@
 ## Desserts
 
 * [Chocolate Chip Cookies](desserts/chocolate-chip-cookies.md)
+* [Molasses Cookies](desserts/molasses-cookies.md)
 
 ## Bread
 
