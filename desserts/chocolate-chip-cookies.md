@@ -5,7 +5,7 @@
 * 725g all purpose flour (type 405)
 * 1 1/2 tsp (\~11g) salt
 * 1 1/2 tsp (\~10g) baking soda
-* 3/4 tsp (\~5g) backing powder
+* 3/4 tsp (\~5g) baking powder
 * 250g softened unsalted butter
 * 250g your choice of shortening/butter/ghee/coconut oil/...
 * 370g white sugar
