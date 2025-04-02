@@ -35,7 +35,9 @@ Bake for 5 minutes, then rotate the tray and bake for another 4-5 minutes before
 Makes approximately 1 small mountain of cookies.
 
 {% hint style="success" %}
-Tip - bake half, freeze half! To freeze, form the cookie dough balls normally, then place them a plate or sheet tray and freeze.  Once they're completely frozen, move to a freezer bag for storage.
+Tip - bake half, freeze half!&#x20;
+
+Form the dough balls normally, then place half of them a plate or sheet tray and freeze.  Once they're completely frozen, move to a freezer bag or other closed container for storage (freezing the dough balls separately keeps them from sticking together in the bag).
 
 Frozen cookie dough balls don't need to thaw before baking - just lower the temp to 325F / 160C and bake for a couple minutes longer.
 {% endhint %}
