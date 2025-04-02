@@ -47,5 +47,5 @@ Frozen cookie dough balls don't need to thaw before baking - just lower the temp
 ### Variations
 
 * Mix dark / milk / white chocolate
-* Replace \~150g chocolate with butterscotch chips
-* Replace \~150g chocolate with chopped nuts
+* Replace \~100g chocolate with butterscotch chips
+* Replace \~100g chocolate with chopped nuts
